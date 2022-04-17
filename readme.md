@@ -10,7 +10,8 @@ If this script helped or interested you, please consider starring the repo above
 
 ## Tips
 - Khan Academy always requests the current and next question, so **expect the second to last console log message to be the correct answer**.
-- Change your console log level to only **info** for a much better experience.
+- Change your console log settings to the following for a much better experience.
+- <img width="332" alt="Screenshot 2022-04-17 at 2 36 25 PM" src="https://user-images.githubusercontent.com/87256750/163703658-693f8e57-ab63-4cbc-aa91-b1b981a17064.png">
 - Make sure the console-logged answer makes sense before entering it. This can eliminate question-answer errors.
 
 ## Drawbacks
