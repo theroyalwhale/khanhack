@@ -1,6 +1,6 @@
 # Khan Academy Answer Revealer
 
-If this script helped or interested you, please consider starring the repo above. That number looks cool when it's big.
+If you found this script interesting or useful, please consider starring the repo above.
 
 ## Usage
 1. Download a userscript manager like [TamperMonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or [Greasemonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) if you haven't already.
@@ -12,7 +12,7 @@ If this script helped or interested you, please consider starring the repo above
 - Khan Academy always requests the current and next question, so **expect the second to last console log message to be the correct answer**.
 - Change your console log settings to the following for a much better experience.
 - <img width="332" alt="Screenshot 2022-04-17 at 2 36 25 PM" src="https://user-images.githubusercontent.com/87256750/163703658-693f8e57-ab63-4cbc-aa91-b1b981a17064.png">
-- Make sure the console-logged answer makes sense before entering it. This can eliminate question-answer errors.
+- Check to see that the console-logged answer makes sense before entering it. This can eliminate question-answer errors.
 
 ## Drawbacks
 - This works only for expression, free response, multiple choice, and dropdown questions.
