@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Khan Academy Answer Revealer
 // @version      2.0
-// @description  Cheat, cheat, and cheat.
-// @author       DeLevo Group
+// @description  Save time on the easy stuff!
+// @author       The Royal Whale
 // @match        https://www.khanacademy.org/*
 // @grant        none
 // ==/UserScript==
